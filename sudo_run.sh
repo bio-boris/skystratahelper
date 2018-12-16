@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 echo "$@" > runtime
 chmod 755 runtime
-sudo ./runtime &
+sudo ./runtime
